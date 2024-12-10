@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Oxford_Blue">#030027</color>
+    <color name="Jungle_Green">#21A179</color>
+    <color name="Space_Cadet">#151E3F</color>
+    <color name="Beige">#F2F3D9</color>
+    <color name="Cerulean">#247BA0</color>
+    <color name="T1">#90E0Ef</color>
+    <color name="clora">#02010A</color>
+    <color name="clor1b">#04052E</color>
+    <color name="clor1c">#140152</color>
+    <color name="clor1d">#22007C</color>
+    <color name="clor1e">#0D00A4</color>
+</resources>
